@@ -1,4 +1,4 @@
-# CEEJAY MD
+# CEEJAY-MD
 
 <div align="center">
 
